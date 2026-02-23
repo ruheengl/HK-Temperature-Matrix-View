@@ -1,0 +1,4 @@
+Conversation: https://chatgpt.com/share/699bde3c-e9bc-8009-a00b-e097cbb2488d 
+
+I initially used ChatGPT to help me get started with the assignment. It gave me some example scripts, which were useful for understanding the general structure, but they did not fully solve the problem I was facing and the script gave errors. Since I had never used D3.js before and have limited experience with JavaScript, I struggled to understand how to move forward.
+After that, I relied more on online documentation, tutorials, and forum discussions. I looked at small code snippets from different sources and adapted them to my project. A big part of the process was trial and error, especially when fixing syntax errors or debugging issues in the browser console.
